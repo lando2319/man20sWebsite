@@ -8,8 +8,8 @@ include_in_header: true
 September 7th 2024
 
 # Original Game
-I discovered this game on a Gaming Emulator in 2024
-it appeared under the title `是男人就撑20秒`
+I discovered the original game on a Gaming Emulator in 2024;
+it appeared under the title `是男人就撑20秒`.
 
 It is an ancient PC Game from Asia with little info about it's origins
 
